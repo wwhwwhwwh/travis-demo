@@ -8,4 +8,5 @@ cache: yarn
 install:
   - yarn
 script:
+  - yarn test # 运行测试
   - yarn build
